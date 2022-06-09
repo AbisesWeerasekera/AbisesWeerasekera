@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abisesweerasekera" alt="abisesweerasekera" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AbisesW" target="blank"><img src="https://img.shields.io/twitter/follow/@abisesw?logo=twitter&style=for-the-badge" alt="@abisesw" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/AbisesW" target="blank"><img src="https://img.shields.io/twitter/follow/@abisesw?logo=twitter&style=for-the-badge" alt="@abisesw" /></a> </p> -->
 
 - 🔭 I’m currently working on **Epic Lanka Private Limited as an Intern software Engineer**
 
