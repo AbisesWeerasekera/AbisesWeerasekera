@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abisesweerasekera&show_icons=true&locale=en&layout=compact" alt="abisesweerasekera" width="400" height="200"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abisesweerasekera&show_icons=true&locale=en" width="400" height="200" alt="abisesweerasekera" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abisesweerasekera&show_icons=true&locale=en" width="400" height="300" alt="abisesweerasekera" /></p>
