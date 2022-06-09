@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AbisesW" target="blank"><img src="https://img.shields.io/twitter/follow/@abisesw?logo=twitter&style=for-the-badge" alt="@abisesw" /></a> </p>
 
-- 🔭 I’m currently working on **Intern software Engineer**
+- 🔭 I’m currently working on **Epic Lanka Private Limited as an Intern software Engineer**
 
 - 🌱 I’m currently learning **Angular Framework with ANT design, Bootstrap & Angular material, ASP .NET Core Web Api**
 
