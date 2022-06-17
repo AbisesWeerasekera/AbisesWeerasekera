@@ -1,6 +1,6 @@
-<!-- <h1 align="center">Hi 👋, I'm Abiiii</h1> -->
-<h1 align="center">Hi 👋, I'm Abiiii<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<h1 align="center">Hi 👋, I'm Abiiii<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"></h1>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30"'>
 <h3 align="center">I am currenly reading my Bachelor of Science in Computer science degree at University Of Colombo School Of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abisesweerasekera&label=Profile%20views&color=0e75b6&style=flat" alt="abisesweerasekera" /> </p>
